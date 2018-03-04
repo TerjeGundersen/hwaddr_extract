@@ -22,7 +22,7 @@ are you will have "undefined"-errors. Once compiling is done, run it as you woul
 
 You should be presented with output that looks something like this:
 ```
-Name: [lo]				Index [1]	Address [0:0:0:0:0:0]
+Name: [lo]		Index [1]	Address [0:0:0:0:0:0]
 Name: [wlp2s0]		Index [3]	Address [0:28:F8:3F:BA:B]
 Name: [virbr0]		Index [4]	Address [52:54:0:B8:12:AD]
 ```
